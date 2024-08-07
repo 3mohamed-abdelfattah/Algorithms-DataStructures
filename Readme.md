@@ -1,4 +1,4 @@
-# Data Structures Course
+# Algorithms and Data Structures
 
 Welcome to the Data Structures Course repository! This repository contains lecture notes, code examples, and exercises related to various data structures. It serves as a comprehensive resource for learning and mastering data structures, essential for computer science students and software developers.
 
