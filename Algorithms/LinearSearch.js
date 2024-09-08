@@ -4,10 +4,11 @@ function linearSearch(arr, target) {
             return i;
         }
     }
-    return -1;
+    return 'not found';
 }
 
 console.log(linearSearch([2, 5, 7, 0, 9, 1], 0));
 console.log(linearSearch([2, 5, 7, 0, 9, 10], 10));
+console.log(linearSearch([2, 5, 7, 0, 9, 10], 99));
 
 // Big-O --> O(n) 
