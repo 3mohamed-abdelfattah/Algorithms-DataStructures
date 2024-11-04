@@ -16,3 +16,5 @@ function bubbleSort(arr) {
 const arr = [8, 20, -2, 4, -6]
 bubbleSort(arr)
 console.log(arr) // [-6, -2, 4, 8, 20]
+
+// Big-O -> O(n^2)
